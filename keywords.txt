@@ -1,0 +1,6 @@
+Delegate	KEYWORD1
+Property	KEYWORD1
+Getter	KEYWORD1
+Setter	KEYWORD1
+Action	KEYWORD1
+create	KEYWORD2
